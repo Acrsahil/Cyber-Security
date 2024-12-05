@@ -1,6 +1,6 @@
 
 
-# Project Portfolio
+# Security Projects
 
 This repository contains three different scripts and tools developed for various purposes. Below you'll find a description and details of each project.
 
