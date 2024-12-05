@@ -65,12 +65,12 @@ Requirements:
 
 Setup:
 
-    Clone the repository:
+ Clone the repository:
 
     git clone https://github.com/Acrsahil/Cyber-Security
 
-    Review the documentation and adjust configurations according to your system.
-    Execute the script as an administrator to ensure full functionality.
+   Review the documentation and adjust configurations according to your system.
+   Execute the script as an administrator to ensure full functionality.
 
 Contributing
 
