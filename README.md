@@ -44,7 +44,7 @@ The Mailing Client is a Python-based tool that allows you to send emails via an 
 ### Setup:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Acrsahil
+   git clone https://github.com/Acrsahil/Cyber-Security
 
     Modify the script with your SMTP details.
     Run the script and follow the prompts to send emails.
@@ -67,7 +67,7 @@ Setup:
 
     Clone the repository:
 
-    git clone https://github.com/Acrsahil
+    git clone https://github.com/Acrsahil/Cyber-Security
 
     Review the documentation and adjust configurations according to your system.
     Execute the script as an administrator to ensure full functionality.
