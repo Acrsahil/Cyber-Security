@@ -46,8 +46,8 @@ The Mailing Client is a Python-based tool that allows you to send emails via an 
    ```bash
    git clone https://github.com/Acrsahil/Cyber-Security
 
-    Modify the script with your SMTP details.
-    Run the script and follow the prompts to send emails.
+Modify the script with your SMTP details.
+Run the script and follow the prompts to send emails.
 
 3. Anti-Forensic Tool
 
