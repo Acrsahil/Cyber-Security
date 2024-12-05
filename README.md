@@ -49,7 +49,7 @@ The Mailing Client is a Python-based tool that allows you to send emails via an 
 Modify the script with your SMTP details.
 Run the script and follow the prompts to send emails.
 
-3. Anti-Forensic Tool
+## 3. **Anti-Forensic Tool**
 
 Description: The Anti-Forensic Tool is a command-line utility designed to prevent forensic analysis on a system. It simulates common actions to protect sensitive information from being retrieved by external forensic experts.
 Features:
