@@ -65,8 +65,7 @@ Requirements:
 
    - Python 3.x
    - pyautogui library (used for mouse tracking)
-   Command-line tools for system manipulation (Linux/Unix-based systems recommended).
-
+   
 Setup:
 
  Clone the repository:
