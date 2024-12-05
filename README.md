@@ -51,17 +51,20 @@ Run the script and follow the prompts to send emails.
 
 ## 3. **Anti-Forensic Tool**
 
-Description: The Anti-Forensic Tool is a command-line utility designed to prevent forensic analysis on a system. It simulates common actions to protect sensitive information from being retrieved by external forensic experts.
+Description: The Anti-Forensic Tool is a Python script that tracks the mouse position and executes certain system commands whenever the mouse moves. The purpose of this tool is to simulate activities that may confuse forensic experts during an analysis.
+
+This script captures and prints the mouse's current position in real-time and executes commands to obfuscate activities. It serves as an example of how forensic evidence can be potentially erased or masked.
+
 Features:
 
-    Protect files by obfuscating file metadata.
-    Clear history and traces of previous activity.
-    Prevent unauthorized access to critical system information.
+Tracks mouse position continuously.
+Executes the ls command each time the mouse position changes, simulating system activity.
+Designed for educational purposes only.
 
 Requirements:
 
-    Python 3.x
-    Command-line tools for system manipulation (Linux/Unix-based systems recommended).
+    pip install pyautogui
+   Command-line tools for system manipulation (Linux/Unix-based systems recommended).
 
 Setup:
 
@@ -69,10 +72,10 @@ Setup:
 
     git clone https://github.com/Acrsahil/Cyber-Security
 
-   Review the documentation and adjust configurations according to your system.
-   Execute the script as an administrator to ensure full functionality.
-
+   * Run the script in a local, controlled environment.
+   * The script will print the current mouse position and execute the ls command on every mouse movement.
 Contributing
+   * Modify the on_move function to implement other actions if desired.
 
 Feel free to fork and contribute to any of the projects. If you have any improvements or bug fixes, you can create a pull request.
 License
